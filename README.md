@@ -1,2 +1,2 @@
 # astroberry-server-artwork
-Astroberry Server logo
+Astroberry Server artwork
