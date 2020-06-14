@@ -1,3 +1,9 @@
+astroberry-server-artwork (2.0.1) buster; urgency=medium
+
+  * Changing start-here icon
+
+ -- Radek Kaczorek <rkaczorek@gmail.com>  Sun, 14 Jun 2020 02:33:28 +0200
+
 astroberry-server-artwork (2.0.0) buster; urgency=medium
 
   * Initial release.
